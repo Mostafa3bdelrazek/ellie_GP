@@ -1,0 +1,100 @@
+import 'package:flutter/material.dart';
+
+class ColorManager {
+  static Color transparent = Colors.transparent;
+  static Color backGroundColor = const Color.fromRGBO(34, 37, 45, 1);
+  static Color baseColor3 = Colors.indigo.shade100;
+  //static Color baseColor = const Color(0xff225FA7);
+  //static Color baseColor2 = const Color(0xffF4F9FF);
+  static Color baseColor = Colors.purple.shade400;
+  static Color baseColor2 =  Colors.purple.shade50;
+  static Color darkBaseColor = const Color(0xFF004d58);
+  static Color middleBaseColor = const Color(0xFF49bdce);
+  static Color secondaryColor = const Color(0xFFD4EDF1);
+  static Color darkGreyBlueLight = const Color(0xFF40526a);
+
+  static Color black = const Color(0xFF000000);
+  static Color red = const Color(0xFFDA0000);
+  static Color darkRed = const Color(0xFFd60b0b);
+  static Color white = const Color(0xFFfefefe);
+  static Color whiteTwo = const Color(0xFFffffff);
+  static Color warmGrey3 = const Color(0xFF828282);
+  static Color warmGrey4 = const Color(0xFFbdbdbd);
+  static Color warmGrey5 = const Color(0xFF6d6d6d);
+  static Color coolGrey = const Color(0xFF91919f);
+  static Color lightOrange = const Color(0xFFFEF4ED);
+  static Color paleGrey = const Color(0xFFedeff3);
+  static Color pale = const Color(0xFFfff0df);
+
+  static Color lightGrey = const Color(0xFF757575);
+  static Color blackLight = const Color(0xFF1B1E28);
+
+  static Color placeholderText = const Color(0xff9b9b9b);
+
+  static Color dark = const Color(0xFF22252d);
+  static Color darkSkyBlue = const Color(0xFF33a7d5);
+  static Color terracota = const Color(0xFFe45f35);
+  static Color offWhite = const Color(0xFFfcfcf9);
+  static Color lightBlue = const Color(0xFF64c7f1);
+  static Color steel = const Color(0xFF7f8589);
+  static Color steel50 = const Color(0xFF7f8589).withOpacity(0.5);
+  static Color secondaryText = const Color(0xFF7f8589);
+  static Color grapefruit90 = const Color(0xFFFF6363);
+  static Color emerald = const Color(0xFF009C65);
+  static Color iceBlue = const Color(0xFFEFF5FF);
+  static Color warmGrey = const Color(0xFF9F9F9F);
+  static Color viridian = const Color(0xFF258F6E);
+  static Color grey = const Color(0xFFe8e8e8);
+  static Color waterBlue = const Color(0xFF169ED9);
+  static Color greyIshBrown = const Color(0xFF585858);
+  static Color greLight = const Color(0xFF999999);
+  static Color greyBorder = const Color(0xFFDEDEDE);
+  static Color unSelected = const Color(0xFF8c8c8c);
+  static Color midGrey = const Color(0xFF797979);
+  static Color midBlack = const Color(0xFF101317);
+  static Color lightBrown = const Color(0xFF353535);
+  static Color darkBlue = const Color(0xFF001f56);
+  static Color midGrey2 = const Color(0xFF6a6a6a);
+  static Color midBrown = const Color(0xFF4d4d4d);
+  static Color lightRed = const Color(0xFFffe7e7);
+  static Color midYellow = const Color(0xFFc7b300);
+  static Color greyishBrownTwo = const Color(0xFF454545);
+  static Color lightBlack = const Color(0xFF2f2f2f);
+  static Color whiteThree = const Color(0xFFededed);
+  static Color greyishBrownOne = const Color(0xFF4e4e4e);
+  static Color whiteFour = const Color(0xFFf5f5f5);
+  static Color lightBlue2 = const Color(0xFF3085fe);
+  static Color whiteFive = const Color(0xFFececec);
+  static Color lightGrey2 = const Color(0xFFD0D0D0);
+  static Color greyishBrown = const Color(0xFF434343);
+  static const Color baseLightLight20 = Color(0xff91919f);
+  static const white2 = Color(0xffd2d2d2);
+  static const Color warmGrey2 = Color(0xff868686);
+
+  static const Color sandBrown = Color(0xffd09f4c);
+
+  static const Color containerColor = Color(0xffe8fcff);
+  static const Color containerColorTwo = Color(0xffEDF8F9);
+  static const Color middleGrey = Color(0xff646464);
+  static const Color lightGreyTwo = Color(0xffd9d9d9);
+  static const Color seafoamBlue28 = Color(0x475dc5d4);
+  static const Color green = Color(0xff19a830);
+  static const Color softGreen28 = Color(0x4772c575);
+  static const Color black8 = Color(0x14000000);
+  static const tealish = Color(0xff27a6b9);
+  static const deepTeal = Color(0xff004d58);
+  static const shadowBlack002 = Color(0x05000000);
+  static const warmGreyFive = Color(0xff9e9e9e);
+  static const greyscale400 = Color(0xff9ca3af);
+  static const arrowColor = Color(0xffcacaca);
+  static const Color placeholderStroke = Color(0xffcacaca);
+  static Color black005 = const Color(0xff000000).withOpacity(.05);
+  static const paleGrey2 = Color(0xffeef8fa);
+  static const whiteFour2 = Color(0xffe2e2e2);
+  static const brownishGrey = Color(0xff686868);
+  static const whiteThree2 = Color(0xffffffff);
+  static const warmGreySix = Color(0xff878787);
+  static const pinkishGrey97 = Color(0xf7c7c7c7);
+  static const greyishBrownThree = Color(0xff3d3d3d);
+  static const warmGreySeven = Color(0xff808080);
+}
